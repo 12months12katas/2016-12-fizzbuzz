@@ -1,6 +1,6 @@
 # 1month1kata
 
-One month, one kata, improve your programming skills and share it with others, this is the main goal of this initiative, a place in where people that want to learn from each other and knows the importance of developing better software. 
+One month, one kata, improve your programming skills and share it with others, this is the main goal of this initiative, a place in where people that want to learn from each other and knows the importance of developing good software. 
 
 We strongly believe that one of the best ways to improve as a developer is by sharing experiences with others and that is why we started this experiment.
 
